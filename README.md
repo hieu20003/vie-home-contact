@@ -13,7 +13,7 @@ Nhưng đây là file cố định URL rồi, giờ sẽ hướng dẫn các b�
 
 Giờ là giới thiệu từng folder nhỏ trong các folder :v
 
-- <name-folder>-dảk là folder sẽ là cái mà hiện lên màn ảnh của các bạn
+- name folder-dảk là folder sẽ là cái mà hiện lên màn ảnh của các bạn
 ví dụ như home-dảk, blog-dảk....
 thường thì mấy folder này chứa những file html,css,js sửa được nhưng vì đây là theo dataURL nên là chỉ có mấy người dùng Chorme extension sửa được 
 còn các trình duyệt khác như Bing, Cốc cốc, opera... thì phải thay đổi.(phần dưới sẽ nói rõ)
@@ -24,7 +24,7 @@ thế nên các bạn thích giữ lại cũng được, không thích thì xoá
 --<fonts.gstatic.com/s/poppins/v19> đây là folder fonts dành cho các bạn nào mà không thiên về mảnh design, nhưng muốn hiện rõ các chữ nó theo mẫu
  vì chữ có nhiều cái đa dạng nên là bạn nào muốn nó trở thành fonts Time New Roman thì xoá đi là được :D
  
- -- <DataURL> folder này xoá đi để chỉnh sửa URL mà các bạn thường dùng trình duyệt nào để hiện code html.
+ -- DataURL folder này xoá đi để chỉnh sửa URL mà các bạn thường dùng trình duyệt nào để hiện code html.
  
  --<.metadata> cái này chắc ai chạy code đều hiện nên thôi không nói nữa :v 
  
