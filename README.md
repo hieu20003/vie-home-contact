@@ -38,10 +38,15 @@ thế nên các bạn thích giữ lại cũng được, không thích thì xoá
  
 -Cách thay đổi bên trong js, html, css
  Bước 1: Tương tự như trên
+ 
  Bước 2: Chọn theo trình tự: _next/static -> chunks -> pages -> homepage(nếu như là folder blog-detail thì chọn blog-detail tương tự như các folder khác)
+ 
  Bước 3: Vào file và đọc các đường link mà file js đã điền sẵn rồi chỉnh sửa theo ý muốn của bạn. 
+ 
  Bước bonus: Khi file js có đưa đường link vào css thì nó là folder css của folder <name-folder>-dảk nhé không phải của _next/static đâu :|
+ 
  Bước 4: Chỉnh sửa trong HTML thì mở file html như phần Tích hợp URL, thoả sức sáng tạo mà xoá rồi thêm vào
+ 
   nếu thấy xoá 1 thứ mà lỗi cả trang thì hãy sang phần css của mỗi phần được tích hợp để kiểm tra.
   Bước bonus: Các bạn thấy 1 đống file js ở phần chunks ? Những file này là những file sẽ tích hợp với các folder với nhau
    ví dụ hiện tại blog-detail đang được tích hợp với homepage.
