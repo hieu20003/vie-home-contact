@@ -1,5 +1,4 @@
 # vie-home-contact
-Thấy bảo là có phần about-us rồi nên là mình không push nữa :v
 NHỚ ĐỌC KỸ VÀ NHÌN KỸ TÊN FILE, TRÁNH NHẦM LẪN :v
 
 Đây là cách để sửa được file và dùng nó
