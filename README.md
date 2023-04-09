@@ -32,11 +32,15 @@ thế nên các bạn thích giữ lại cũng được, không thích thì xoá
  
  
 -Tích hợp URL
+ 
  Bước 1: vào folder mà bạn muốn (ví dụ: home-dark)
+ 
  Bước 2: chọn theo trình tự: home-dảk -> homepage/home1-dark 
+ 
  Bước 2 chạy live server file html lên để các file js biết được URL rồi tự tích hợp
  
 -Cách thay đổi bên trong js, html, css
+ 
  Bước 1: Tương tự như trên
  
  Bước 2: Chọn theo trình tự: _next/static -> chunks -> pages -> homepage(nếu như là folder blog-detail thì chọn blog-detail tương tự như các folder khác)
@@ -46,9 +50,9 @@ thế nên các bạn thích giữ lại cũng được, không thích thì xoá
  Bước bonus: Khi file js có đưa đường link vào css thì nó là folder css của folder <name-folder>-dảk nhé không phải của _next/static đâu :|
  
  Bước 4: Chỉnh sửa trong HTML thì mở file html như phần Tích hợp URL, thoả sức sáng tạo mà xoá rồi thêm vào
+ nếu thấy xoá 1 thứ mà lỗi cả trang thì hãy sang phần css của mỗi phần được tích hợp để kiểm tra.
  
-  nếu thấy xoá 1 thứ mà lỗi cả trang thì hãy sang phần css của mỗi phần được tích hợp để kiểm tra.
-  Bước bonus: Các bạn thấy 1 đống file js ở phần chunks ? Những file này là những file sẽ tích hợp với các folder với nhau
+ Bước bonus: Các bạn thấy 1 đống file js ở phần chunks ? Những file này là những file sẽ tích hợp với các folder với nhau
    ví dụ hiện tại blog-detail đang được tích hợp với homepage.
    Nếu thấy không thích nó thì có thể tìm vài cái không ảnh hưởng rồi xoá đi cũng được, hoặc tiếc thì có thể biến nó thành comment
    rồi tiếp tục.
