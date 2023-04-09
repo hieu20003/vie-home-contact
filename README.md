@@ -13,7 +13,7 @@ Nhưng đây là file cố định URL rồi, giờ sẽ hướng dẫn các b�
 
 Giờ là giới thiệu từng folder nhỏ trong các folder :v
 
--<name-folder>-dảk là folder sẽ là cái mà hiện lên màn ảnh của các bạn
+- <name-folder>-dảk là folder sẽ là cái mà hiện lên màn ảnh của các bạn
 ví dụ như home-dảk, blog-dảk....
 thường thì mấy folder này chứa những file html,css,js sửa được nhưng vì đây là theo dataURL nên là chỉ có mấy người dùng Chorme extension sửa được 
 còn các trình duyệt khác như Bing, Cốc cốc, opera... thì phải thay đổi.(phần dưới sẽ nói rõ)
